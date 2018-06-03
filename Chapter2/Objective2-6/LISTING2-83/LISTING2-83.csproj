@@ -7,7 +7,7 @@
     <ProjectGuid>{DE84D35E-3D29-4146-AFC7-8D5FE83C4D89}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LISTING2_83</RootNamespace>
-    <AssemblyName>LISTING2_83</AssemblyName>
+    <AssemblyName>LISTING2-83</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
